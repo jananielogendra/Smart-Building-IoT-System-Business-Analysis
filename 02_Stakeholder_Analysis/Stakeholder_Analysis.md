@@ -1,14 +1,14 @@
-Stakeholder Analysis – Smart Building IoT System
+# Stakeholder Analysis – Smart Building IoT System
 
 ---
 
-1. Project Stakeholders Overview
+## 1. Project Stakeholders Overview
 
 The Smart Building IoT System involves multiple stakeholders who interact with the system for monitoring, controlling, and managing building operations.
 
 ---
 
-2. Key Stakeholders
+## 2. Key Stakeholders
 
 ### 1. Building Owner
 - Owns the building and invests in the system
@@ -40,7 +40,7 @@ The Smart Building IoT System involves multiple stakeholders who interact with t
 
 ---
 
-3. Stakeholder Expectations
+## 3. Stakeholder Expectations
 
 | Stakeholder | Expectations |
 |-------------|-------------|
@@ -53,7 +53,7 @@ The Smart Building IoT System involves multiple stakeholders who interact with t
 
 ---
 
-4. Stakeholder Communication Needs
+## 4. Stakeholder Communication Needs
 
 - Real-time alerts via mobile/web dashboard
 - Weekly performance reports
