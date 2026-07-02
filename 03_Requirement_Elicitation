@@ -1,1 +1,72 @@
+Requirement Elicitation – Smart Building IoT System
 
+---
+
+1. Purpose of Requirement Elicitation
+
+The purpose of requirement elicitation is to gather, analyze, and document the needs of stakeholders for the Smart Building IoT System. This ensures that the final solution meets business expectations and user requirements.
+
+---
+
+2. Elicitation Techniques Used
+
+- Stakeholder Interviews
+- Questionnaires
+- Observation of current building operations
+- Document Analysis
+- Brainstorming sessions
+
+---
+
+3. Key Stakeholder Interview Questions
+
+Building Owner
+- What are your main goals for implementing this system?
+- What cost reductions do you expect?
+- What are your key performance indicators (KPIs)?
+
+Facility Manager
+- What are your daily challenges in building management?
+- Which systems need most monitoring (energy, security, HVAC)?
+- What reports are required?
+
+Security Team
+- What type of alerts are most critical?
+- How fast should incident notifications be delivered?
+
+Maintenance Team
+- What issues occur frequently with current systems?
+- How should device failures be reported?
+
+---
+
+4. Identified High-Level Requirements
+
+- Real-time monitoring of all IoT devices
+- Energy consumption tracking and optimization
+- Security alert system (fire, intrusion, emergency)
+- Centralized dashboard for building control
+- Mobile app for remote access
+- Automated notifications for incidents
+
+---
+
+5. Requirement Classification
+
+Functional Requirements
+- System shall monitor all connected IoT devices
+- System shall send real-time alerts
+- System shall allow remote device control
+
+Non-Functional Requirements
+- System shall operate with 99% uptime
+- System shall respond within 3 seconds for alerts
+- System shall be secure with role-based access control
+
+---
+
+## 6. Output of Elicitation
+
+- Clear understanding of stakeholder needs
+- Defined system boundaries
+- Initial functional and non-functional requirements
