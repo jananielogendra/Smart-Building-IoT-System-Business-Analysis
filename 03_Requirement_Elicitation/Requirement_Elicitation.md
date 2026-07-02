@@ -1,1 +1,104 @@
+# Requirement Elicitation – Smart Building IoT System
 
+---
+
+## 1. Purpose of Requirement Elicitation
+
+The purpose of requirement elicitation is to gather, analyze, and document stakeholder needs for the Smart Building IoT System. This ensures that the final solution aligns with business goals and user expectations.
+
+---
+
+## 2. Elicitation Techniques Used
+
+The following techniques were used to gather requirements:
+
+- Stakeholder Interviews
+- Questionnaires
+- Observation of building operations
+- Document analysis
+- Brainstorming sessions
+
+---
+
+## 3. Key Stakeholders Interview Questions
+
+### Building Owner
+- What are your main goals for implementing a smart building system?
+- What cost reductions are expected?
+- What KPIs define success for you?
+
+### Facility Manager
+- What are the main challenges in daily building operations?
+- Which systems require continuous monitoring?
+- What reports are needed for decision-making?
+
+### Security Team
+- What types of incidents require immediate alerts?
+- How fast should alerts be delivered?
+
+### Maintenance Team
+- What are the most frequent system failures?
+- How should maintenance alerts be handled?
+
+### System Administrator
+- What access control levels are required?
+- What security policies should be implemented?
+
+---
+
+## 4. Identified High-Level Requirements
+
+- Real-time monitoring of all IoT devices
+- Energy consumption tracking and optimization
+- Security alert system for fire, intrusion, and emergency events
+- Centralized dashboard for building management
+- Mobile application for remote access
+- Automated notification system
+
+---
+
+## 5. Functional Requirements (FR)
+
+- System shall allow real-time monitoring of IoT devices
+- System shall track and display energy consumption data
+- System shall send alerts for abnormal events (fire, intrusion, system failure)
+- System shall allow remote control of devices (lights, AC, locks)
+- System shall support role-based access control
+- System shall provide centralized dashboard for monitoring
+- System shall send notifications via mobile, email, and web
+
+---
+
+## 6. Non-Functional Requirements (NFR)
+
+- System shall process alerts within 3 seconds
+- System shall maintain 99% uptime
+- System shall support real-time data updates
+- System shall ensure secure authentication and authorization
+- System shall support scalability for multiple buildings and thousands of devices
+- System shall provide user-friendly UI for web and mobile platforms
+
+---
+
+## 7. System Constraints
+
+- IoT devices must support MQTT or HTTP communication protocols
+- System depends on stable internet connectivity
+- Hardware installation is required in buildings
+
+---
+
+## 8. Assumptions
+
+- All IoT devices are properly installed and functional
+- Users have basic knowledge of system usage
+- Network connectivity is available at all times
+
+---
+
+## 9. Outcome of Elicitation
+
+- Clear understanding of stakeholder needs
+- Defined system boundaries
+- Identified functional and non-functional requirements
+- Foundation for system design and architecture
